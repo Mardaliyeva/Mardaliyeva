@@ -20,7 +20,7 @@ I am a fourth-year **Information Technology** student focused on **AI/ML Enginee
 
 ---
 
-## ✨ What I Work With
+## What I Work With
 
 <div align="left">
   <img width="820" src="./assets/neon-skills-table-v2.svg" alt="Neon table showing Ayten's AI, machine learning, automation and data analysis skills" />
@@ -30,7 +30,7 @@ I am a fourth-year **Information Technology** student focused on **AI/ML Enginee
 
 ## 💼 Experience
 
-### 💜 AI Engineer Intern · Kontakt Home
+### AI Engineer Intern · Kontakt Home
 `July 2026 – August 2026`
 
 > Worked on AI-driven automation, RAG-based systems and AI-powered sales and conversational applications. Contributed to the development, integration and optimization of LLM workflows for practical business use cases.
