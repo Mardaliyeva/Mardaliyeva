@@ -10,13 +10,13 @@
 
 ## ⭐ About Me
 
+<a href="https://www.pinterest.com/pin/571112796514485601/">
+  <img align="right" width="280" src="./assets/pixel-cat-city.gif" alt="Pixel-art cat at a computer overlooking a futuristic city" />
+</a>
+
 I am a fourth-year **Information Technology** student focused on **AI/ML Engineering**. I have hands-on experience developing AI-driven solutions, including automation workflows and AI-powered applications, as well as developing and optimizing machine learning models. My areas of interest include machine learning, data analysis, LLM applications, deep learning and natural language processing.
 
-<div align="center">
-  <a href="https://www.pinterest.com/pin/571112796514485601/">
-    <img width="310" src="./assets/pixel-cat-city.gif" alt="Pixel-art cat at a computer overlooking a futuristic city" />
-  </a>
-</div>
+<br clear="right"/>
 
 ---
 
