@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=190&section=header&text=Ayten%20Merdeliyeva&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=57&descSize=19" alt="Ayten Merdeliyeva — AI/ML Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5DA2,50:C850C0,100:7B2CBF&height=190&section=header&text=Ayten%20Merdeliyeva&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=57&descSize=19" alt="Ayten Merdeliyeva — AI/ML Engineer" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
