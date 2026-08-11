@@ -30,7 +30,7 @@ I am a fourth-year **Information Technology** student focused on **AI/ML Enginee
 
 ## 💼 Experience
 
-### AI Engineer Intern · Kontakt Home
+### AI Engineer· Kontakt Home
 `July 2026 – August 2026`
 
 > Worked on AI-driven automation, RAG-based systems and AI-powered sales and conversational applications. Contributed to the development, integration and optimization of LLM workflows for practical business use cases.
