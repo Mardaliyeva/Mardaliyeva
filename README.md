@@ -14,7 +14,7 @@
   <img align="right" width="280" src="./assets/pixel-cat-city.gif" alt="Pixel-art cat at a computer overlooking a futuristic city" />
 </a>
 
-I am a fourth-year **Information Technology** student focused on **AI/ML Engineering**. I have hands-on experience developing AI-driven solutions, including automation workflows and AI-powered applications, as well as developing and optimizing machine learning models. My areas of interest include machine learning, data analysis, LLM applications, deep learning and natural language processing.
+I am a fourth-year **Information Technology** student focused on **AI/ML Engineering**. I have hands-on experience developing AI-driven solutions, including automation workflows and AI-powered applications, as well as developing and optimizing machine learning models. My areas of interest include machine learning, data analysis, LLM applications and deep learning.
 
 <br clear="right"/>
 
