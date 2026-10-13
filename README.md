@@ -39,6 +39,7 @@ As a fourth-year Information Technology student at UNEC and a Junior AI & Automa
 
 ## 🎓 Education
 
+
 <div align="left">
   <img width="820" src="./assets/neon-education-table.svg" alt="Neon table showing Ayten's education, grades and scholarships" />
 </div>
