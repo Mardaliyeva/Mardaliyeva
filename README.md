@@ -14,7 +14,7 @@
   <img align="right" width="280" src="./assets/pixel-cat-city.gif" alt="Pixel-art cat at a computer overlooking a futuristic city" />
 </a>
 
-I am a fourth-year **Information Technology** student focused on **AI/ML Engineering**. I have hands-on experience developing AI-driven solutions, including automation workflows and AI-powered applications, as well as developing and optimizing machine learning models. My areas of interest include machine learning, data analysis, LLM applications and deep learning.
+As a fourth-year Information Technology student at UNEC and a Junior AI & Automation Engineer, I focus on building intelligent systems. My hands-on experience includes engineering AI-driven solutions—such as automated workflows and smart applications—as well as training, evaluating, and optimizing machine learning models.
 
 <br clear="right"/>
 
@@ -31,7 +31,7 @@ I am a fourth-year **Information Technology** student focused on **AI/ML Enginee
 ## 💼 Experience
 
 ### AI Engineer · Kontakt Home
-`July 2026 – Present`
+`June 2026 – Present`
 
 > Worked on AI-driven automation, RAG-based systems and AI-powered sales and conversational applications. Contributed to the development, integration and optimization of LLM workflows for practical business use cases.
 
